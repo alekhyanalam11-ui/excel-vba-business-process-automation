@@ -1,0 +1,15 @@
+# Excel workbooks (keep business data out of source control)
+*.xlsx
+*.xlsm
+*.xlsb
+*.xlam
+
+# Office lock files and temporary files
+~$*
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
